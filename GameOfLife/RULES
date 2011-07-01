@@ -1,0 +1,7 @@
+For a space that is populated:
+  <= 1 neighbors -> dies
+  >= 4 neighbors -> dies
+  2-3 neighbors survives
+
+For an unpopulated space:
+  3 neighbors -> populated
